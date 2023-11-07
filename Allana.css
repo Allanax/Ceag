@@ -1,1 +1,11 @@
-body 
+body {
+  background-color: blonde;
+  text-align:  center;
+}
+
+h1 {
+  color: dark blue;
+}
+p { 
+ font-size: 30px;
+}
